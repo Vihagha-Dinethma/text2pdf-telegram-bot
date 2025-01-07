@@ -23,7 +23,7 @@ pip install fpdf
 - search YOUR-BOT-TOKEN in main.py and replace it with your bot token.
 
 5 - add DejaVuSansCondensed.ttf
-- download DejaVuSansCondensed.ttf file from internet and add to this
+- download DejaVu SansCondensed ttf file from internet and add to this project.
 
 6 - run the bot
 ```bash
