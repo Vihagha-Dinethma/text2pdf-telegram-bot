@@ -2,16 +2,29 @@
 
 - This telegram bot can generate pdf using messages sent to this bot.
 
-### required libraries:
+### running bot locally:
 
-- python-telegram-bot
+1 clone this repo
+```bash
+git clone https://github.com/Vihagha-Dinethma/text2pdf-telegram-bot.git
+```
 
+2 install python-telegram-bot
 ```bash
 pip install python-telegram-bot
 ```
 
-- fpdf
-
+3 install fpdf
 ```bash
 pip install fpdf
 ```
+
+4 add your bot token
+- search YOUR-BOT-TOKEN in main.py and replace it with your bot token.
+
+5 run the bot
+```bash
+python main.py
+```
+
+### contact me: @vihagha [telegram]
