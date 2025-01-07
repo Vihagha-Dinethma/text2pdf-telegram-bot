@@ -25,7 +25,7 @@ pip install fpdf
 5 - add DejaVuSansCondensed.ttf
 - download DejaVu SansCondensed ttf file from internet and add to this project.
 
-6 - run the bot
+#### run the bot
 ```bash
 python main.py
 ```
