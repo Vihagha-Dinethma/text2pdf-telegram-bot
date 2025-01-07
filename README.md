@@ -3,6 +3,7 @@
 - This telegram bot can generate pdf using messages sent to this bot.
 
 ### running bot locally:
+- steps to run this bot locally.
 
 #### clone this repo
 ```bash
