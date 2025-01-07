@@ -27,4 +27,4 @@ pip install fpdf
 python main.py
 ```
 
-### contact me: @vihagha [telegram]
+### contact me: t.me/vihagha [telegram]
